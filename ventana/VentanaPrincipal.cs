@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ventana
 {
-    public partial class VentanaPrincipal : Form
+    public partial class VentanaPrincipalForm : Form
     {
-        public VentanaPrincipal()
+        public VentanaPrincipalForm()
         {
             InitializeComponent();
         }
